@@ -17,6 +17,8 @@
                  "js/j99_background.js" ]
   },
 
+  "options_page": "options.html",
+
   "permissions": [
     "bookmarks",
     "tabs",
